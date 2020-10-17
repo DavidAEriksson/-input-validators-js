@@ -73,3 +73,5 @@ Accepts two parameters:
 * `0`- YYYY/M/D and YYYY.M.D
 * `1`- YYYY-MM-DD and YYYY-M-D
 * `2`- YYYY-MM-DD
+
+Will `return` `true` or `false` if `dateString` passes regex.
