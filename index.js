@@ -40,5 +40,3 @@ module.exports.validateDateFormatYearMonthDay = (date, format) => {
 		return console.error(`Wrong parameter: ${format}. Expected values 0, 1, 2`);
 	}
 };
-
-//module.exports.validate
