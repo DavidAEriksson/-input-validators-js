@@ -1,6 +1,6 @@
 {
   "name": "input-validators-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Input validation functions for common front-end application use.",
   "main": "index.js",
   "scripts": {
