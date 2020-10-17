@@ -40,3 +40,11 @@ module.exports.validateDateFormatYearMonthDay = (date, format) => {
 		return console.error(`Wrong parameter: ${format}. Expected values 0, 1, 2`);
 	}
 };
+
+module.exports.validateTypeString = (str) => {
+	return typeof str === "string";
+};
+
+module.exports.validateTypeNumber = (num) => {
+	return typeof num == "number";
+};
