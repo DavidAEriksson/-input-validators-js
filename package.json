@@ -15,5 +15,6 @@
     "npm"
   ],
   "author": "David A. Eriksson",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/DavidAEriksson/-input-validators-js"
 }
