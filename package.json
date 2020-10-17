@@ -1,0 +1,19 @@
+{
+  "name": "input-validation",
+  "version": "1.0.0",
+  "description": "Input validation functions for common front-end application use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "input",
+    "validation",
+    "js",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "David A. Eriksson",
+  "license": "MIT"
+}
