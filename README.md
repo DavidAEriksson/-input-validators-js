@@ -13,7 +13,7 @@ const validate = require("input-validators-js");
 ...
 ```
 
-### Validating `email` formatting
+### Validating email formatting
 
 ```javascript
 validate.validateEmail(emailString);
@@ -75,3 +75,20 @@ Accepts two parameters:
 * `2`- YYYY-MM-DD
 
 Will `return` `true` or `false` if `dateString` passes regex.
+
+
+## Validating type `string`
+
+```javascript
+validate.validateTypeString(string);
+```
+
+This will return `true` if the object passed is a string and `false` if not.
+
+## Validating type `number`
+
+```javascript
+validate.validateTypeNumber(number);
+```
+
+This will return `true` if the object passed is a number and `false` if not.
