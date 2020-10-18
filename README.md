@@ -4,9 +4,15 @@ A simple npm-package for validating user input like `email`, `password`-strength
 
 ## Installation
 
+#### With `npm`:
+
 `npm i input-validators-js`
 
-Including `input-validators-js` in your project:
+#### With `yarn`:
+
+`yarn add input-validators-js`
+
+#### Including `input-validators-js` in your project:
 
 ```javascript
 const validate = require("input-validators-js");
